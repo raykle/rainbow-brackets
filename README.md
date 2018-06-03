@@ -4,7 +4,7 @@ Provide rainbow colors for the round brackets, the square brackets and the squig
 
 The isolated right bracket will be highlighted in red.
 
-![Functional Demo](http://www.2gua.info/static/uploads/20160509171502.gif)
+![Functional Demo](./images/feature.gif)
 
 # Install
 
